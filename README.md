@@ -13,3 +13,5 @@ mandi mandi che de cul te spandi!
 Se si è rotto qualcosa sono stata io :)
 sTUpida
 
+##giusto per capire
+Ha funzionato?
